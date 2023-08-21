@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManhCuongMVC&show_icons=true&theme=cobalt&rank_icon=github)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ManhCuongMVC&repo=ApolloServer-Prisma-Supabase&show_owner=true&theme=cobalt)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ManhCuongMVC&repo=ApolloServer-Prisma-Supabase&theme=cobalt)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManhCuongMVC&layout=compact&theme=cobalt)
 
