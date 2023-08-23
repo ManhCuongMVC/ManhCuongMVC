@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManhCuongMVC&show_icons=true&theme=cobalt&rank_icon=github)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManhCuongMVC&show_icons=true&theme=buefy&rank_icon=github)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ManhCuongMVC&repo=ApolloServer-Prisma-Supabase&theme=cobalt)](https://github.com/ManhCuongMVC/ApolloServer-Prisma-Supabase)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ManhCuongMVC&repo=ApolloServer-Prisma-Supabase&theme=buefy)](https://github.com/ManhCuongMVC/ApolloServer-Prisma-Supabase)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManhCuongMVC&layout=compact&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManhCuongMVC&layout=compact&theme=buefy)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManhCuongMVC&layout=donut&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManhCuongMVC&layout=donut&theme=buefy)
