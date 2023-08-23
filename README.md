@@ -1,22 +1,11 @@
-<!--
-**ManhCuongMVC/ManhCuongMVC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I am [Manh Cuong](https://github.com/ManhCuongMVC) 👋 <img align="right" src="https://komarev.com/ghpvc/?username=ManhCuongMVC&color=lightgrey&style=plastic" alt="ManhCuongMVC" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤝 Connect with me:
+[<img align="left" alt="ManhCuongMVC | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/manh-cuong-mvc/)
+<br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManhCuongMVC&show_icons=true&theme=buefy&rank_icon=github)
-
+| <a href="https://github.com/ManhCuongMVC"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ManhCuongMVC&show_icons=true&include_all_commits=true&theme=buefy&rank_icon=github" alt="ManhCuongMVC's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ManhCuongMVC&layout=donut&theme=buefy"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManhCuongMVC&layout=donut&theme=buefy" alt="ManhCuong's Most Used Languages"/></a> |
+| ------------- | ------------- |
+ 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ManhCuongMVC&repo=ApolloServer-Prisma-Supabase&theme=buefy)](https://github.com/ManhCuongMVC/ApolloServer-Prisma-Supabase)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManhCuongMVC&layout=compact&theme=buefy)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManhCuongMVC&layout=donut&theme=buefy)
